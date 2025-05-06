@@ -16,7 +16,7 @@ let AVE=((sub1+sub2+sub3)/ 3).toFixed(2);
 		}
 
 	 else if (AVE >= 75 && AVE < 79.99 ){ 
-	 	window.alert("You need improvemnt, STUDY!");
+	 	window.alert("You need improvement, STUDY!");
         }
 
      else if (AVE >= 80 && AVE < 86.99){
